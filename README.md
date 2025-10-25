@@ -1,2 +1,7 @@
-Hi! I'm Crystal. I do a bit of programming and some homelabbing.
-More at: https://crstl.me/
+Hi! I'm Crystal. I like computers, physics, and rockets.
+
+More about me at: [crstl.me](https://crstl.me/)
+
+**Contact:**
+- Discord: @lattisse
+- Mail: crystal@crstl.me
