@@ -4,4 +4,4 @@ Website: [crstl.me](https://crstl.me/)
 
 **Contact:**
 - Discord: @lattisse
-- Mail: crystal@crstl.me
+- Mail: hi@crstl.me
