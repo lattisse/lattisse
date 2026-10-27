@@ -1,6 +1,6 @@
 Hi! I'm Crystal. I like computers, physics, and rockets.
 
-Website: [crstl.me](https://crstl.fyi/)
+Website: [crstl.fyi](https://crstl.fyi/)
 
 **Contact:**
 - Discord: @lattisse
